@@ -1,0 +1,157 @@
+.details {
+    position:relative;
+    height: 120px;
+    width: 1440px;
+    left: 240px;
+    top: 108px;
+    display: flex;
+    flex: 2;
+    
+}
+
+.similar-acc {
+
+    width: 1040px;
+    height: 300px;
+}
+
+.quick-act {
+    width: 400px;
+}
+
+.details-item {
+    position: absolute;
+    width: 347px;
+    height: 50px;
+    left: 57px;
+    top: 96px;
+}
+
+.details-item img {
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 0px;
+    border-radius: 2px;
+}
+
+.details-item h {
+    position: absolute;
+    left: 72px;
+    top: 7px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.details-item a {
+    position: absolute;
+    left: 72px;
+    top: 25px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.btn {
+    box-sizing: border-box;
+    position: absolute;
+    width: 53px;
+    height: 30px;
+    left: 350px;
+    top: 110px;
+    border: 1px solid #FF6059;
+    border-radius: 2px;
+}
+
+.button {
+    position: absolute;
+    left: 8px;
+    top: 5px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FF6059;
+}
+.spinner{
+    box-sizing: border-box;
+    position: absolute;
+    width: 74px;
+    height: 30px;
+    left: 350px;
+    top: 110px;
+    border: 1px solid #FF6059;
+    border-radius: 2px;
+}
+.spinner img{
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 10px;
+    top: 5px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    
+    /* identical to box height */
+    
+    color: #FF6059;
+    
+    
+}
+.spin-button{
+    position: absolute;
+    left: 28px;
+    top: 5px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 16px;
+    color: #FF6059;
+}
+.tracking-button{
+    position: absolute;
+width: 50px;
+height: 16px;
+left: 5px;
+top: 5px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 16px;
+
+color: #1AAB2B;
+
+
+}
+.track-btn{
+
+box-sizing: border-box;
+
+position: absolute;
+width: 74px;
+height: 30px;
+left: 350px;
+top: 110px;
+border: 1px solid #1AAB2B;
+border-radius: 2px;
+}

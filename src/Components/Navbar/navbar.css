@@ -1,0 +1,243 @@
+.main-nav {
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 239px;
+    top: 0px;
+
+    /* Neutral / White */
+    background: #FFFFFF;
+    box-shadow: 4px 0px 16px 10px rgba(30, 30, 30, 0.08);
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.search-box {
+    position: absolute;
+    width: 265.13px;
+    height: 22px;
+    left: 60.54px;
+    top: 21px;
+    border: none;
+    outline: none;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+    opacity: 0.3;
+}
+
+.search {
+
+    position: absolute;
+    width: 22.26px;
+    height: 22px;
+    left: 24.11px;
+    top: 21px;
+
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+    opacity: 0.3;
+}
+.cross-icon{
+    position: absolute;
+    width: 22.26px;
+    height: 20px;
+    left: 24.11px;
+    top: 21px;
+
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 22px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+    opacity: 0.3;
+}
+
+.hero-img {
+    position: absolute;
+    width: 1440px;
+    height: 568.53px;
+    left: 240px;
+    top: 60px;
+
+
+}
+
+.screen1 {
+    position: absolute;
+    width: 1440px;
+    height: 250px;
+    left: 240px;
+    top: 566px;
+
+}
+
+.screen2 {
+    position: absolute;
+    width: 1440px;
+    height: 590.83px;
+    left: 240px;
+    top: 816px;
+}
+
+.bell {
+    position: absolute;
+    width: 25.3px;
+    height: 25px;
+    left: 1375px;
+    top: 18px;
+
+    background: #EFF3F9;
+    border-radius: 2px;
+}
+
+.bell-icon {
+    position: absolute;
+    width: 11.13px;
+    height: 12px;
+    left: 8px;
+    top: 6px;
+
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+
+    /* identical to box height */
+
+    color: #000000;
+
+    opacity: 0.5;
+}
+
+.bell-point {
+    position: absolute;
+    width: 8.1px;
+    height: 8px;
+    left: 21.5px;
+    top: 0px;
+
+    background: #F44336;
+    border: 1px solid #FFFFFF;
+    border-radius: 40px;
+}
+
+.logo1 {
+    position: absolute;
+    width: 25.3px;
+    height: 25px;
+    left: 1410px;
+    top: 18px;
+    border-radius: 2px;
+}
+
+.similar-head{
+    position: absolute;
+width: 279px;
+height: 30px;
+left: 296px;
+top: 114px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.5;
+}
+
+.action{
+
+position: absolute;
+width: 248px;
+height: 30px;
+left: 1317px;
+top: 114px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+/* identical to box height */
+
+color: #000000;
+
+opacity: 0.5;
+}
+.track{
+    
+position: absolute;
+width: 227px;
+height: 19px;
+left: 1317px;
+right: 196;
+top: 167px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.bulk{
+    position: absolute;
+width: 227px;
+height: 19px;
+left: 1317px;
+right: 196px;
+top: 219px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+.manage{
+    position: absolute;
+width: 227px;
+height: 19px;
+left: 1317px;
+right: 196px;
+top: 271px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}

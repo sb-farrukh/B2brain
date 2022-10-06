@@ -1,0 +1,560 @@
+.main-sidebar{
+    position: absolute;
+    width: 239px;
+    height: 1466px;
+    left: 0px;
+    top: 0px;
+    
+    /* Neutral / White */
+    background: #FFFFFF;
+    box-shadow: 4px 0px 16px rgba(30, 30, 30, 0.08);
+
+}
+
+.main-logo img{
+    position: absolute;
+width: 35px;
+height: 31px;
+left: 15px;
+top: 20px;
+
+
+}
+.main-logo p{
+    position: absolute;
+width: 82px;
+height: 30px;
+left: 72px;
+top: 0px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 30px;
+
+/* identical to box height */
+
+color: #000000;
+
+
+}
+
+.sidebar{
+position: absolute;
+width: 200px;
+height: 530px;
+left: 15px;
+right: 24px;
+top: 89px;
+}
+.home-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 0px;
+}
+
+.home-item img{
+position: absolute;
+left: 0px;
+right: 15px;
+top:3px;
+
+font-family: 'Font Awesome 5 Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+
+/* identical to box height */
+
+color: #000000;
+
+opacity: 1;
+}
+.home-item p{
+
+    position: absolute;
+    left: 35px;
+    right: 104px;
+    top: -15px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+}
+
+.intels-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 42px;
+}
+
+.intels-item img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.intels-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+}
+.intels-unread{
+    position: absolute;
+width: 57px;
+height: 16px;
+left: 77px;
+top: 46px;
+}
+.intels-unread-cont{
+    position: absolute;
+width: 57px;
+height: 16px;
+left: 77px;
+top: 0px;
+
+
+background: #FF7474;
+border-radius: 22px;
+}
+.intels-unread-text{
+    position: absolute;
+width: 43px;
+height: 14px;
+left:7px;
+top: 1px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 8px;
+line-height: 1px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+}
+.leads-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 84px;
+}
+
+.leads-item img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.leads-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.leads-unseen{
+    position: absolute;
+width: 57px;
+height: 16px;
+left: 77px;
+top: 88px;
+}
+.leads-text-cont{
+    position: absolute;
+width: 57px;
+height: 16px;
+left: 77px;
+top: 0px;
+
+background: #FF7474;
+border-radius: 22px;
+}
+.leads-text-cont p{
+
+position: absolute;
+width: 45px;
+height: 14px;
+left: 10px;
+top: -2px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 8px;
+line-height: 1px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+.account-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 126px;
+}
+.less{
+    position:absolute;
+    top: -105px;
+}
+.v1{
+    position: absolute;
+width: 1px;
+height: 86px;
+left: 5px;
+top: 170px;
+
+background: #DBE0E8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.acc-img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.account-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.arrowdown{
+
+    position: absolute;
+    left: 196px;
+    right:14px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+
+.acc-option{
+    position: absolute;
+    width: 129px;
+    height: 87px;
+    left: 50px;
+    top: 162px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 209.1%;
+    
+    /* or 29px */
+    
+    color: #000000;
+    
+    opacity: 0.6;
+
+}
+
+.pre-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 275px;
+}
+.v2{
+    position: absolute;
+width: 1px;
+height: 86px;
+left: 5px;
+top: 320px;
+
+background: #DBE0E8;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.pre-img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.pre-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
+.pre-arrowdown{
+     position: absolute;
+    left: 196px;
+    right:14px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+
+.pre-option{
+    position: absolute;
+width: 110px;
+height: 87px;
+left: 50px;
+top: 307px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 209.1%;
+
+/* or 29px */
+
+color: #000000;
+
+opacity: 0.6;
+}
+
+.integration-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 424px;
+}
+
+.integration-item img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.integration-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.team-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 466px;
+}
+
+.team-item img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.team-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
+
+.help-item{
+    position: absolute;
+    width: 200px;
+    height: 22px;
+    left: 0px;
+    top: 508px;
+}
+
+.help-item img{
+    position: absolute;
+    left: 0px;
+    right: 15px;
+    top:3px;
+    
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    
+    /* identical to box height */
+    
+    color: #000000;
+    
+    opacity: 1;
+}
+.help-item p{
+    position: absolute;
+    left: 35px;
+    right: 104px;
+top: -15px;
+    
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+/* identical to box height */
+
+color: #000000;
+}
